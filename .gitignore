@@ -1,3 +1,9 @@
+#3d Models (Keeping this just in case, it's a good idea to upload the source material)
+# Models/*
+
+#WindowsNoEditor (The .exe game)
+WindowsNoEditor/*
+
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -50,7 +56,6 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
-Plugins/*/Binaries/*
 
 # Builds
 Build/*
@@ -71,7 +76,6 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
-Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
