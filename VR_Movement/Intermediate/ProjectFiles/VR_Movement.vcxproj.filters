@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\VR_Movement.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{17CCEBF9-A9B7-4E8F-AB2C-8D1F41CEC46F}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\VR_Movement.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\VR_MovementEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{ABB302B8-982C-4A8A-AE34-44BF82B0149C}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\VR_Movement">
+			<UniqueIdentifier>{52E88BA9-BF79-42C9-AE12-C53DA03D2939}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\VR_Movement\VR_Movement.Build.cs">
+			<Filter>Source\VR_Movement</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\VR_Movement\VR_Movement.cpp">
+			<Filter>Source\VR_Movement</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\VR_Movement\VR_Movement.h">
+			<Filter>Source\VR_Movement</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\VR_Movement\VR_MovementGameModeBase.cpp">
+			<Filter>Source\VR_Movement</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\VR_Movement\VR_MovementGameModeBase.h">
+			<Filter>Source\VR_Movement</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

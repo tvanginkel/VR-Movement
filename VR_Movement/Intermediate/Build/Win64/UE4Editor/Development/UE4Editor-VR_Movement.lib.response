@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VR_Movement.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal Projects\VR_Movement\VR_Movement\Intermediate\Build\Win64\UE4Editor\Development\VR_Movement\VR_Movement.cpp.obj"
+"D:\Unreal Projects\VR_Movement\VR_Movement\Intermediate\Build\Win64\UE4Editor\Development\VR_Movement\VR_MovementGameModeBase.cpp.obj"
+"D:\Unreal Projects\VR_Movement\VR_Movement\Intermediate\Build\Win64\UE4Editor\Development\VR_Movement\VR_Movement.init.gen.cpp.obj"
+"D:\Unreal Projects\VR_Movement\VR_Movement\Intermediate\Build\Win64\UE4Editor\Development\VR_Movement\VR_MovementGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\VR_Movement\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Unreal Projects\VR_Movement\VR_Movement\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-VR_Movement.lib"
